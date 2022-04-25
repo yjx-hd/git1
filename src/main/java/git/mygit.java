@@ -6,5 +6,6 @@ public class mygit {
         System.out.println("bbbb");
         System.out.println("bbbb");
         System.out.println("hello,git");
+        System.out.println("bbbb");
     }
 }
